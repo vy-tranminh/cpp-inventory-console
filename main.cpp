@@ -16,7 +16,7 @@ struct Item {
 // Khai báo các hàm
 void addItems(std::vector<Item> &items);
 void viewItems(const std::vector<Item> &items);
-void pauseScreen(); // Hàm tiện ích mới để dừng màn hình
+void pauseScreen(); 
 
 int main(){
     std::vector<Item> bag;

@@ -1,2 +1,11 @@
+# build
 *.exe
+*.out
 *.o
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
